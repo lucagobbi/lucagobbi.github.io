@@ -25,7 +25,10 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['lucagobbi/ha_agent'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: [
+          'lucagobbi/ha_agent',
+          'lucagobbi/OctoCat'
+        ], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
