@@ -27,7 +27,8 @@ const CONFIG = {
         // Properties for manually specifying projects
         projects: [
           'lucagobbi/ha_agent',
-          'lucagobbi/OctoCat'
+          'lucagobbi/OctoCat',
+          'lucagobbi/white-rabbit-in-action'
         ], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
@@ -90,6 +91,13 @@ const CONFIG = {
       from: 'March 2022',
       to: 'Present',
       companyLink: 'https://niuma.it',
+    },
+    {
+      company: 'Cheshire Cat AI',
+      position: 'Core contributor',
+      from: 'April 2024',
+      to: 'Present'
+      companyLink: 'https://cheshirecat.ai/'
     }
   ],
   certifications: [],
