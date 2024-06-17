@@ -96,7 +96,7 @@ const CONFIG = {
       company: 'Cheshire Cat AI',
       position: 'Core contributor',
       from: 'April 2024',
-      to: 'Present'
+      to: 'Present',
       companyLink: 'https://cheshirecat.ai/'
     }
   ],
