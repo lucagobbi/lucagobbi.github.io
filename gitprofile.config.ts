@@ -26,9 +26,11 @@ const CONFIG = {
       manual: {
         // Properties for manually specifying projects
         projects: [
+          'lucagobbi/core',
           'lucagobbi/ha_agent',
+          'lucagobbi/stressed-cat',
           'lucagobbi/OctoCat',
-          'lucagobbi/white-rabbit-in-action'
+          'lucagobbi/white-rabbit-in-action',
         ], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
